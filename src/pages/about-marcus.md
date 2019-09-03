@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
 title: About Marcus
-permalink: pages/about
+permalink: about
 ---
 testing
